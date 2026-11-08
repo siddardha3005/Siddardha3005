@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Iam Siddardha reddy 
 
-<!--
-**siddardha3005/Siddardha3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Experienced in Exploratory Data Analysis | Data Visualization
 
-Here are some ideas to get you started:
+# Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.SQL : Proficient in writing complex SQL queries to extract, manipulate and analyze data from relational databases.
+
+2.Excel : Skilled in utilizing Excel for data cleaning, analysis, and creating insightful visualizations with charts and pivot tables.
+
+3.Power BI : Hands-on experience in developing interactive dashboards and reports using Power BI, enabling stakeholders to gain valuable insights.
+
+4.Probability and Statistical Knowledge
